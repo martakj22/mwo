@@ -5,7 +5,7 @@ public class SomeProgram {
         System.out.println("we will be git masters, soon.");
     }
 
-    public void manageTheSatellite {
-        
+public void manageTheSatelit(){
+
+}        
     }
-}
